@@ -21,12 +21,5 @@ Soy Full Stack Web Developer y actualmente busco crecer como programadora, adqui
 Me considero una persona curiosa, proactiva y siempre busco la mejor manera de realizar las tareas. Me emocionan los nuevos proyectos y las nuevas experiencias, capaz de adaptarme a los cambios y abierta a las sugerencias, dispuesta a aprender de los demás y a ayudar a quienes lo necesiten. Siento que trabajando unidos y comunicados, se pueden lograr grandes resultados y grandes relaciones humanas. 
 
 ## Tech Skills: 
-![css3](https://user-images.githubusercontent.com/83962558/205785601-fac444d6-ba59-423d-b333-429206a99789.svg)
-![express-original-wordmark](https://user-images.githubusercontent.com/83962558/205785607-41b78b01-8186-4019-95b0-72e0d52b4eb9.svg)
-![git](https://user-images.githubusercontent.com/83962558/205785610-8ce6edfc-00ac-4917-a931-9edc2c3ac24c.svg)
-![html5](https://user-images.githubusercontent.com/83962558/205785615-98c1dfe5-2245-4a5e-9133-f09f9bed6384.svg)
-![js](https://user-images.githubusercontent.com/83962558/205785617-12506839-10f1-41d9-9800-12624c231bc4.svg)
-![nodejs-original-wordmark](https://user-images.githubusercontent.com/83962558/205785619-e3bf5b4a-e3d4-499c-bacd-5f99aece9682.svg)
-![postgresql-original-wordmark](https://user-images.githubusercontent.com/83962558/205785621-65ef334e-4a3b-4b94-bbd4-c80e7a87bc69.svg)
-![react](https://user-images.githubusercontent.com/83962558/205785622-9700dc5c-adaf-420e-9ba4-04a8a3e72dd2.svg)
-![redux-original](https://user-images.githubusercontent.com/83962558/205785624-cefbc6b5-6273-4e98-8adf-8cea0b529274.svg)
+![css](https://user-images.githubusercontent.com/83962558/205786743-5eaf57f0-f4e9-4f40-9e73-6a5db7c443cf.jpg) ![express](https://user-images.githubusercontent.com/83962558/205786747-5ef36c06-a63a-4295-b1a3-5c1af6e40c31.jpg) ![git](https://user-images.githubusercontent.com/83962558/205786749-f269f43f-a754-4599-83a3-0f787f896965.jpg) ![html](https://user-images.githubusercontent.com/83962558/205786751-53accd9d-fcc4-4b1b-852e-ff2da73075cf.jpg) ![javascript](https://user-images.githubusercontent.com/83962558/205786752-982fc2e0-77eb-4823-933f-bdebe15db929.jpg) ![node](https://user-images.githubusercontent.com/83962558/205786754-d7351007-ab05-4d17-879a-016d9835d0bc.jpg) ![postgres](https://user-images.githubusercontent.com/83962558/205786759-c5269058-40f8-48d1-ae55-39fa09f44c20.jpg) ![react](https://user-images.githubusercontent.com/83962558/205786762-6e9c683e-6290-4063-ba14-13b0c1a148eb.jpg) ![redux](https://user-images.githubusercontent.com/83962558/205786766-51e02c99-b19d-4612-b5f0-333b75fb0d1d.jpg)
+
