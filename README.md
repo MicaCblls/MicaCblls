@@ -1,6 +1,6 @@
 # <h1 align="center">Hi! 👋, I'm Micaela</h1>
 
-<p>I am a Full Stack Web Developer and I am currently looking to grow as a programmer, acquiring knowledge and learning the use of new technologies. I consider myself a curious person, proactive and always looking for the best way to perform tasks. I am excited about new projects and new experiences, able to adapt to changes and open to suggestions, willing to learn from others and help those who need it. I feel that by working together and communicating, great results and great human relationships can be achieved. 💌</p>
+<p>I am a Full Stack Web Developer and I am currently looking to grow as a programmer, acquiring knowledge and learning the use of new technologies. I consider myself a curious person, proactive and always looking for the best way to perform tasks. I am excited about new projects and new experiences, able to adapt to changes and open to suggestions, willing to learn from others and help those who need it. I feel that by working together and communicating, great results and great human relationships can be achieved.💌</p>
 
 <br/>
 
